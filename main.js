@@ -36,4 +36,4 @@ client.on('message', message =>{
     
 }});
 
-client.login("NzU1MDY0ODQyMTg3OTY0NTA3.X1927g.HpjLryDguZcTZh3hx7QImSXhEBk");
+client.login("loginkey");
