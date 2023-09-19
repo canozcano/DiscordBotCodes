@@ -1,0 +1,2 @@
+# DiscordBotCodes
+All Rights Reserved
